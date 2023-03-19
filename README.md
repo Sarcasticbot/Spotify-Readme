@@ -127,3 +127,5 @@ https://accounts.spotify.com/authorize?client_id={CLIENT_ID}&response_type=code&
 ## Note
 
 This wasn't a completely original idea. This is my own take of <a href="https://github.com/novatorem/novatorem">novatorem's project</a> that was supposed to be for me only, but others have asked for the source code so I made this repo. I also incorporated the latest two PR's from the orignal project into this one and made it easy to customize.
+
+![Spotify Song](https://spotify-readme.vercel.app/api)
